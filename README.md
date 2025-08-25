@@ -12,4 +12,4 @@ Structure:
 This format helps you learn how different techniques are applied across various problems with clear, visual, and coded examples.
 
 Feel free to explore, learn, and contribute!  
-Happy coding! 🚀
+Silent_Coder! 🚀
